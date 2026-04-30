@@ -18,6 +18,7 @@
 .env.production.local
 
 # Env examples
+.env
 .env.local
 .env.local.example
 
